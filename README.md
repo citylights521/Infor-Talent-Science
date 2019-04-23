@@ -1,1 +1,7 @@
 # Infor-Talent-Science
+
+I had the honor of working on the Infor Talent Science Assessment Pilot while at Nordstrom. The pilot involved working with third-party vendor Infor to create custom profiles for various positions within Nordstrom. The intent was that having applicants assess at the time of applying and measuring applicants results against the results of current Nordstrom employees would be indicative of future success, thus informing which candidates had the best potential for employment.
+
+There were many moving parts to this project, and I was part of the core team of four who managed the Pilot project from planning stages to go-live, and then measured results and pilot success thereafter. I personally worked with the development team at Nordstrom to integrate the Assessment into the ATS (Applicant Tracking System). This was required twice as we started the pilot while using the Oracle ATS, and then moved to the Workday ATS mid-pilot. This involved authoring development spec documents, creating testing scripts and holding testing sessions, working with the marketing team on user experience, and finally training recruiters and business partners on the applicant flow and how to use the Assessment results. 
+
+Due to this being sensitive information to Nordstrom, I am not able to provide project specific documentation, however I can share that in my time there the Pilot showed promise and we continued to expand to additional stores and roles with the aspiration of employees having improved sales results and decreased attrition and turn. 
